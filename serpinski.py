@@ -1,3 +1,7 @@
+
+# Fractal viewer (press arrow keys to increase and decrease level)
+# Draws Sierpinski Triangle recursively 
+
 from cmu_112_graphics import *
 
 def appStarted(app):
